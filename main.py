@@ -5,8 +5,8 @@ Canahedo
 2025
 """
 
-from game import Game, BoardState
+from game import Game
 
 
 if __name__ == "__main__":
-    Game(BoardState())
+    Game()
